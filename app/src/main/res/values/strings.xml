@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Update Notifier</string>
+    <string name="add_update">Get update now!</string>
+    <string name="sys_update_bold">System update available</string>
+    <string name="sys_update_small">Android System Update</string>
+    <string name="update_later">Later</string>
+    <string name="download_now">Download</string>
+    <string name="updateCustomization">Update Customization</string>
+    <string name="titleText">(Optional) Title text</string>
+    <string name="endlessNotifications">Allow for multiple update notifications</string>
+</resources>
